@@ -5,7 +5,7 @@
 - 📫 How to reach me **sakshi2003verma@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-![My project-1 (2)](https://github.com/SakshiVerma03/SakshiVerma03/assets/134133749/f2b6bf8e-905a-46ed-982d-429138d79525)
+
 
 
 <p align="left">
