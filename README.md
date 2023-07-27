@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **sakshi2003verma@gmail.com**
 
-- ![My project-1 (2)](https://github.com/SakshiVerma03/SakshiVerma03/assets/134133749/41c4cb72-281b-41b8-b4f8-c9579eaa0d5c)
+- ![My project-1 (2)](https://github.com/SakshiVerma03/SakshiVerma03/assets/134133749/41c4cb72-281b-41b8-b4f8-c9579eaa0d5c) width=400px
 
 <h3 align="left">Connect with me:</h3>
 
