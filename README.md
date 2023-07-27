@@ -3,7 +3,9 @@
 - 💬 Ask me about **HTML,CSS,JS**
 
 - 📫 How to reach me **sakshi2003verma@gmail.com**
- 
+
+- 
+ <img src="https://github.com/SakshiVerma03/SakshiVerma03/assets/134133749/84e69195-6359-47ce-9fa3-5bbc1ecac130">
 ![resizes](https://github.com/SakshiVerma03/SakshiVerma03/assets/134133749/84e69195-6359-47ce-9fa3-5bbc1ecac130)
 
 <h3 align="left">Connect with me:</h3>
