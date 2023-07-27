@@ -5,7 +5,8 @@
 - 📫 How to reach me **sakshi2003verma@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="file:///C:/Users/hp/Desktop/My%20project-1%20(2).png">
+![My project-1 (2)](https://github.com/SakshiVerma03/SakshiVerma03/assets/134133749/f2b6bf8e-905a-46ed-982d-429138d79525)
+
 
 <p align="left">
 <a href="https://instagram.com/sakshi._verma._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakshi._verma._" height="30" width="40" /></a>
