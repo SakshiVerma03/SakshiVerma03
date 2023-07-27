@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SakshiVerma03
 - 👀 I’m interested in ... Web Desgining
-- 🌱 I’m currently learning ...Java Sript
-- 💞️ I’m looking to collaborate on ...HTML ans CSS
+
+- 💞️ I’m looking to collaborate on ...HTML,CSS,JS
 - 📫 How to reach me ...sakshi2003verma@gmail.com
 
 <!---
